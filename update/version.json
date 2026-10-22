@@ -1,1 +1,8 @@
-{"versionCode":6,"versionName":"0.0.2-beta5"}
+{
+  "versionCode": 7,
+  "versionName": "0.0.2-beta6",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/664197903",
+  "sha256": "54f6681f82399546071706b864b49c655368b672a8fce27da4bfb07cf88aa5e2",
+  "size": 6055960,
+  "notes": "新增应用内更新检查与完整性校验；优化设置与动作映射；修复图层弹窗文件夹组展开/收起点击。"
+}
