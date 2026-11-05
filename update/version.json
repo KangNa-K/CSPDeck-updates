@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.0.2-beta6",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/664197903",
-  "sha256": "54f6681f82399546071706b864b49c655368b672a8fce27da4bfb07cf88aa5e2",
-  "size": 6055960,
-  "notes": "新增应用内更新检查与完整性校验；优化设置与动作映射；修复图层弹窗文件夹组展开/收起点击。"
+  "versionCode": 8,
+  "versionName": "1.0.0",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/711469488",
+  "sha256": "3c90a73e39a3781b452b3bd929a566e72d4ad1fa1be983d4bfebb06a5cde0b55",
+  "size": 6121540,
+  "notes": "支持速选菜单外圈快捷键按钮；内置快捷键、菜单、滑柄、侧边栏和 Paint World Pro 默认配置；画笔库保留为用户自定义；优化图层交互与配置校验。"
 }
