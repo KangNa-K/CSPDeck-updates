@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.1.1",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/715557468",
-  "sha256": "ed40b63fd4195ca9b5e75db3919c61bbd73c678ee42d0e7a28f41877207d84d9",
-  "size": 6155488,
-  "notes": "修复 Paint World Pro 顶部按钮弹窗重复点击无法收起的问题；修复右上角画笔、涂抹和橡皮工具弹窗的再次点击关闭逻辑；保持点击其他区域关闭弹窗和顶部按钮间切换的行为。"
+  "versionCode": 11,
+  "versionName": "1.1.2",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/718893510",
+  "sha256": "5cae55a519eb6ecf79d75222364fb1455909d35c2be99323db4d32cff795721a",
+  "size": 6171900,
+  "notes": "增强 Paint World Pro 工具栏、菜单和画笔库的配置与交互流程；增加快捷键匹配、工具动作策略、菜单展示和工具属性关闭逻辑的配置支持；改进颜色选择器同步、滑块预览、布局恢复及悬浮面板状态处理；补充配置校验、兼容性处理和覆盖层交互测试。"
 }
