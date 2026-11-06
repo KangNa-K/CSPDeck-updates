@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.1.0",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/715382473",
-  "sha256": "c47c4f4135c50edb6b42c862fdbf20627d0ff1e43c71b7dbdb12400b21ac0d18",
-  "size": 6139104,
-  "notes": "新增 CSP 前台物理键盘快捷键监听，支持 Paint World Pro 工具和画笔组快捷切换；增强图层面板、快捷操作、工具子菜单和画笔库交互；新增控制器显示状态 Quick Settings 磁贴；加强配置校验、默认配置和无障碍图层操作稳定性。"
+  "versionCode": 10,
+  "versionName": "1.1.1",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/715557468",
+  "sha256": "ed40b63fd4195ca9b5e75db3919c61bbd73c678ee42d0e7a28f41877207d84d9",
+  "size": 6155488,
+  "notes": "修复 Paint World Pro 顶部按钮弹窗重复点击无法收起的问题；修复右上角画笔、涂抹和橡皮工具弹窗的再次点击关闭逻辑；保持点击其他区域关闭弹窗和顶部按钮间切换的行为。"
 }
