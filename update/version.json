@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.0",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/711469488",
-  "sha256": "3c90a73e39a3781b452b3bd929a566e72d4ad1fa1be983d4bfebb06a5cde0b55",
-  "size": 6121540,
-  "notes": "支持速选菜单外圈快捷键按钮；内置快捷键、菜单、滑柄、侧边栏和 Paint World Pro 默认配置；画笔库保留为用户自定义；优化图层交互与配置校验。"
+  "versionCode": 9,
+  "versionName": "1.1.0",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/715382473",
+  "sha256": "c47c4f4135c50edb6b42c862fdbf20627d0ff1e43c71b7dbdb12400b21ac0d18",
+  "size": 6139104,
+  "notes": "新增 CSP 前台物理键盘快捷键监听，支持 Paint World Pro 工具和画笔组快捷切换；增强图层面板、快捷操作、工具子菜单和画笔库交互；新增控制器显示状态 Quick Settings 磁贴；加强配置校验、默认配置和无障碍图层操作稳定性。"
 }
