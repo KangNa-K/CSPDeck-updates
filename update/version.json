@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "1.1.4",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/719636516",
-  "sha256": "673a6f085d8c75e4c3ee30a0bca4bb7bfe898c02c3e2648744433c17250c430c",
-  "size": 6188304,
-  "notes": "修复液化工具属性弹窗关闭后切换其他工具时再次出现的问题；修复再次点击液化按钮时重复执行打开宏的问题；新增跟随 CSP 主题的控制器外观选项，并改进 Android 14+ 无障碍窗口截图的主题识别和资源释放；修复渐变工具默认动作迁移、内置工具库回退、图层或素材切换时旧工具选中状态，以及快捷键捕获状态更新。"
+  "versionCode": 14,
+  "versionName": "1.1.5",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/721406677",
+  "sha256": "e3124cd60c37bb22e7b2af082d10e74381de2834a1b443f2fa0b576497344c4d",
+  "size": 6204692,
+  "notes": "修复顶部控制器与相邻控件的半透明边缘不一致问题，移除顶部控制器多余的 8dp 半透明区域；优化顶部工具栏的位置、尺寸、展开状态和触摸区域管理，支持按方向保存布局配置；改进画笔库、工具属性、图层和素材切换时的控制器状态、反馈和快捷键处理；改进 CSP 前台窗口识别、Android 无障碍窗口标志和控制器主题/面板刷新逻辑；增强覆盖层交互、拖动、缩放、顶部边缘触摸保护以及原生面板切换行为。"
 }
