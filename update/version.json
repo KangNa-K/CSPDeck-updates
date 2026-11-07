@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "1.1.2",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/718893510",
-  "sha256": "5cae55a519eb6ecf79d75222364fb1455909d35c2be99323db4d32cff795721a",
-  "size": 6171900,
-  "notes": "增强 Paint World Pro 工具栏、菜单和画笔库的配置与交互流程；增加快捷键匹配、工具动作策略、菜单展示和工具属性关闭逻辑的配置支持；改进颜色选择器同步、滑块预览、布局恢复及悬浮面板状态处理；补充配置校验、兼容性处理和覆盖层交互测试。"
+  "versionCode": 12,
+  "versionName": "1.1.3",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/719040554",
+  "sha256": "057a9553158306c72d7ad98e7eb9ba91e9b63ca32473662d2fe7275f31318efa",
+  "size": 6171904,
+  "notes": "修复选择“渐变映射”后点击右上角“图层”或“素材”按钮，渐变工具仍保持选中状态的问题；修复工具切换异步回调晚到时可能恢复旧选中状态的问题。"
 }
