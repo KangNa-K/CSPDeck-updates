@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "1.1.7",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/723988735",
-  "sha256": "23179c154bdafdc1e475fb0401cf86b1a7f0d83c4ed779f6000a30b1fef50dce",
-  "size": 50932325,
-  "notes": "修复 CSP 工具属性窗口行为：优先通过无障碍节点并在 Android 14+ 使用截图文字识别读取窗口实际状态；液化点击会在窗口未显示时打开原生工具属性窗口，窗口已显示时再次点击不会关闭；保留长按画笔库项目打开工具属性窗口；其他操作仅在确认窗口可见时关闭，状态未知时不发送关闭命令；将默认配置从临时气泡弹窗命令切换到原生工具属性窗口命令，避免执行其他操作后属性窗口自动消失。"
+  "versionCode": 17,
+  "versionName": "1.1.8",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/724460455",
+  "sha256": "1baa48a7b2fbd9fa5c61c454f048c1e8aa8a629de63dcc3529924c87fa2c6a32",
+  "size": 50932329,
+  "notes": "# CSPDeck 1.1.8\n\n- 修复画笔库切换目标配置后未自动切换到该配置上次使用画笔的问题，并保持弹窗打开以便继续选择。\n- 验证涂抹和橡皮工具库使用独立的全局最近选择状态，不受目标配置切换影响。\n- 修复选区工具栏确认按钮未发送回车的问题，并确保失败重试不会重复提交已成功的回车。"
 }
