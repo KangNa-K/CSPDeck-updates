@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "1.1.8",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/724460455",
-  "sha256": "1baa48a7b2fbd9fa5c61c454f048c1e8aa8a629de63dcc3529924c87fa2c6a32",
-  "size": 50932329,
-  "notes": "# CSPDeck 1.1.8\n\n- 修复画笔库切换目标配置后未自动切换到该配置上次使用画笔的问题，并保持弹窗打开以便继续选择。\n- 验证涂抹和橡皮工具库使用独立的全局最近选择状态，不受目标配置切换影响。\n- 修复选区工具栏确认按钮未发送回车的问题，并确保失败重试不会重复提交已成功的回车。"
+  "versionCode": 18,
+  "versionName": "1.1.9",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/727876771",
+  "sha256": "0392981de5e9a70f0160174c9a439ced68fe272e447550ea700de0a073b31c41",
+  "size": 50932473,
+  "notes": "# CSPDeck 1.1.9\n\n- 将系统状态栏自动隐藏改为可选开关，并提供一键恢复状态栏。\n- 仅在 CSP 位于前台时激活沉浸式状态栏策略，避免影响其他应用。\n- 修复状态栏隐藏策略触发 System UI 事件后反复隐藏和恢复的问题。\n- 修复应用退出或设备重启后状态栏仍被错误隐藏的问题。"
 }
