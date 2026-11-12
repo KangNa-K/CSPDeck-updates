@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "1.1.9",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/727876771",
-  "sha256": "0392981de5e9a70f0160174c9a439ced68fe272e447550ea700de0a073b31c41",
-  "size": 50932473,
-  "notes": "# CSPDeck 1.1.9\n\n- 将系统状态栏自动隐藏改为可选开关，并提供一键恢复状态栏。\n- 仅在 CSP 位于前台时激活沉浸式状态栏策略，避免影响其他应用。\n- 修复状态栏隐藏策略触发 System UI 事件后反复隐藏和恢复的问题。\n- 修复应用退出或设备重启后状态栏仍被错误隐藏的问题。"
+  "versionCode": 19,
+  "versionName": "1.2.0",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/737566815",
+  "sha256": "e49bdf92bc204a5cc57746d200a4b0e867aa8416377a707514da75eeeefe671c",
+  "size": 51030781,
+  "notes": "# CSPDeck 1.2.0\n\n- 新增外接小键盘映射，可将实体按键绑定到现有动作、滑条、画笔、Companion 和 Shizuku 功能。\n- 支持同一设备上最多 4 个按键的组合触发，按键顺序不限。\n- 支持单独绑定 Ctrl、Shift、Alt、Meta 等修饰键，并兼容左右修饰键统一识别。\n- 组合键从第一个成员按下起由映射接管，未完成的组合不会部分发送到 CSP。\n- 组合键仅执行一次，单键绑定仍支持可配置的按住连发。\n- 修复顶部工具栏色轮无法通过外接小键盘映射正常触发的问题。\n- 升级按键配置格式并自动迁移旧的单键绑定。\n"
 }
