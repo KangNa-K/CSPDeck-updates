@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "1.4.1",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/741683618",
-  "sha256": "342db7642d72ce9209da1bf9cba84541d2e65b5d9f2729d592c28d59fb712827",
+  "versionCode": 23,
+  "versionName": "1.4.2",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/744840623",
+  "sha256": "2cc857f0c2c9a37313c03f329ceca02d3714e12bfb5024238d24e713f8aaed6a",
   "size": 51112729,
-  "notes": "# CSPDeck 1.4.1\n\n- 修复同一按键已有单击绑定时，新增双击绑定会被“已绑定”提示干扰的问题。\n- 录入已有单击绑定的按键后，新绑定默认选择双击，保存后单击和双击记录会同时保留并分别执行。\n- 双击与按住连发的冲突校验保持不变，避免同一按键组产生无法确定优先级的运行行为。\n"
+  "notes": "# CSPDeck 1.4.2\n\n- 修复多设备按键连发、滑块方向切换和组合键异常中断时的状态问题。\n- 修复配置导入校验、硬件动作引用和授权数据格式校验问题。\n- 修复列表滚动、悬浮窗异常清理以及截图和二维码采集的资源问题。\n- 优化通信数据解码、笔刷导入、列表计算和更新下载进度处理。\n"
 }
