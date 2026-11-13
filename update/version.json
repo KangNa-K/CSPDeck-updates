@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "1.4.0",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/741602185",
-  "sha256": "c7f96b8b0979328a250bb19dd14eed997aeecbd808815f95a27f7e3a91381f28",
+  "versionCode": 22,
+  "versionName": "1.4.1",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/741683618",
+  "sha256": "342db7642d72ce9209da1bf9cba84541d2e65b5d9f2729d592c28d59fb712827",
   "size": 51112729,
-  "notes": "# CSPDeck 1.4.0\n\n- 小键盘按键新增双击触发方式，可让同一按键分别执行单击和双击动作。\n- 双击支持普通按键、单独修饰键和组合键，并会优先识别组合键，避免同前缀按键重复执行。\n- 新增全局双击识别间隔设置，默认 250 毫秒，可在 150–500 毫秒之间调整。\n- 同一按键不能同时启用双击和按住连发；配置编辑器会显示冲突并阻止保存。\n- 配置格式升级至 schema 34，旧配置和现有单次、连发、组合键及旋钮绑定保持兼容。\n"
+  "notes": "# CSPDeck 1.4.1\n\n- 修复同一按键已有单击绑定时，新增双击绑定会被“已绑定”提示干扰的问题。\n- 录入已有单击绑定的按键后，新绑定默认选择双击，保存后单击和双击记录会同时保留并分别执行。\n- 双击与按住连发的冲突校验保持不变，避免同一按键组产生无法确定优先级的运行行为。\n"
 }
