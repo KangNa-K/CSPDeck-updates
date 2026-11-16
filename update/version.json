@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "1.4.4",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/753828987",
-  "sha256": "2b35802aed46668bc03be7af111b5cb65b3dd79a37865cf8f39181162a60fc9c",
+  "versionCode": 26,
+  "versionName": "1.4.5",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/754878502",
+  "sha256": "2b4a3f6c44c9c16a96537ce064c3fbe451b5bf646b11a2b028301c8ae7cec762",
   "size": 51145497,
-  "notes": "# CSPDeck 1.4.4\n\n- 修复小键盘独立宏无法绑定已有动作的问题。\n- 宏编辑器现在可以直接选择已配置的快捷键、QuickAccess 和屏幕点击动作。\n- 增加已有动作到宏步骤时自动保留步骤间延迟，并阻止不支持宏步骤的本地状态动作和嵌套宏。\n"
+  "notes": "# CSPDeck 1.4.5\n\n- 修复已有宏加入小键盘独立宏时被额外插入延迟的问题。\n- 含键盘回退通道的多通道动作不再被错误转换为只有 QuickAccess 的宏步骤。\n- 编辑单个宏步骤时阻止选择多步骤已有动作，避免点击后无变化。\n"
 }
