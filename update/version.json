@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "1.4.2",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/744840623",
-  "sha256": "2cc857f0c2c9a37313c03f329ceca02d3714e12bfb5024238d24e713f8aaed6a",
-  "size": 51112729,
-  "notes": "# CSPDeck 1.4.2\n\n- 修复多设备按键连发、滑块方向切换和组合键异常中断时的状态问题。\n- 修复配置导入校验、硬件动作引用和授权数据格式校验问题。\n- 修复列表滚动、悬浮窗异常清理以及截图和二维码采集的资源问题。\n- 优化通信数据解码、笔刷导入、列表计算和更新下载进度处理。\n"
+  "versionCode": 24,
+  "versionName": "1.4.3",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/753299866",
+  "sha256": "119eb2c0a0e20a70c008ef0d976f41f5796e3b18fac9e4e92a54667cca3ec5ef",
+  "size": 51145497,
+  "notes": "# CSPDeck 1.4.3\n\n- 为 USB / 蓝牙小键盘增加独立宏绑定，支持键盘、延迟、QuickAccess 和屏幕点击步骤。\n- 增加小键盘宏的重复次数、总时长、步骤数量和按键冲突校验，并兼容旧版目标绑定配置。\n- 修复失效硬件目标引用、宏与普通绑定交错执行以及宏中断后的按键释放问题。\n- 优化 Paint World Pro 布局名称、通信状态同步、输入桥接和运行时诊断反馈。\n"
 }
