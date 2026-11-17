@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "1.4.5",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/754878502",
-  "sha256": "2b4a3f6c44c9c16a96537ce064c3fbe451b5bf646b11a2b028301c8ae7cec762",
+  "versionCode": 27,
+  "versionName": "1.4.6",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/759668471",
+  "sha256": "e8c5ae4ed36ada00d3df77ec350b420f07625830eb1248fa45700c049ef68c7b",
   "size": 51145497,
-  "notes": "# CSPDeck 1.4.5\n\n- 修复已有宏加入小键盘独立宏时被额外插入延迟的问题。\n- 含键盘回退通道的多通道动作不再被错误转换为只有 QuickAccess 的宏步骤。\n- 编辑单个宏步骤时阻止选择多步骤已有动作，避免点击后无变化。\n"
+  "notes": "# CSPDeck 1.4.6\n\n- 禁止同一硬件按键组同时配置单击/双击与按住连发，避免动作按配置顺序被静默覆盖。\n- 修复旋钮设备断开后正在执行的步骤卡住队列，重新连接后输入可以继续处理。\n- 修复 CSP 离开前台、配置变化或停止输入后，已消费的硬件按键释放事件透传给新前台应用的问题。\n"
 }
