@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "1.4.6",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/759668471",
-  "sha256": "e8c5ae4ed36ada00d3df77ec350b420f07625830eb1248fa45700c049ef68c7b",
-  "size": 51145497,
-  "notes": "# CSPDeck 1.4.6\n\n- 禁止同一硬件按键组同时配置单击/双击与按住连发，避免动作按配置顺序被静默覆盖。\n- 修复旋钮设备断开后正在执行的步骤卡住队列，重新连接后输入可以继续处理。\n- 修复 CSP 离开前台、配置变化或停止输入后，已消费的硬件按键释放事件透传给新前台应用的问题。\n"
+  "versionCode": 28,
+  "versionName": "1.4.7",
+  "sha256": "430ddbcea85f166bf392485177246a66aad3ff64c7254a9f5155e5e011424259",
+  "size": 51243797,
+  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/777219434",
+  "notes": "# CSPDeck 1.4.7\n\n- 统一首页、动作、画笔库、小键盘、布局、设置及相关弹窗的操作按钮圆角，提升整体视觉一致性。\n- 整理小键盘编辑页的按键信息、动作设置与宏步骤工具栏，改善按钮层级、对齐和窄屏大字体显示。\n- 改进 Companion 在弹窗、分屏和前后台切换期间的连接保活，减少连接中断。\n- 优化剪贴板颜色同步，支持变化通知触发读取，并保留兼容轮询；改善拖动结束后的颜色应用响应。\n"
 }
