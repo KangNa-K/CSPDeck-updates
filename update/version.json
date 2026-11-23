@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "1.5.0",
-  "sha256": "654e07e02836279c865f09c49e4bb23cc24267251fa818867638e67f026e8313",
-  "size": 51376553,
-  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/779394363",
-  "notes": "# CSPDeck 1.5.0\n\n- 新增 8BitDo Micro 实体按键工作台，支持按键录入、单键与组合键映射，以及同键动作选项轮换。\n- 小键盘支持直接绑定自定义快捷键和 Companion 动作；自定义快捷键随实体键按下保持、松开释放，支持修饰键配合与普通键长按。\n- 工具动作支持长按临时切换、松手恢复；修复单键与组合键会话混用，以及轮换工具选项的长按判断问题。\n- “绑定已有动作”新增顶部按钮弹窗选项，可直接打开画笔、橡皮、工具、设置等菜单。\n- 改进屏幕坐标拾取流程，增加开始拾取提示与取消入口；优化小键盘编辑界面和按钮样式。\n- 改进 Companion 在弹窗、分屏和前后台切换期间的连接保活，以及剪贴板颜色同步响应。\n"
+  "versionCode": 30,
+  "versionName": "1.5.1",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/782192743",
+  "sha256": "e74702c84867290834b47cff8caf2c1e80571a02e57b9fed3787b2924bfa3da0",
+  "size": 51392921,
+  "notes": "- 小键盘新增 Q36 for KM。以键盘模式连接后，可在设备图上选择按键，录入输入并配置单击、双击和组合动作。\n- Q36 for KM 使用带有 15 个可点选按键的胶囊形线条图。8BitDo Micro 的方向键、功能键与肩键标识也统一为细线风格。"
 }
