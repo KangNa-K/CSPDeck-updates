@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "1.5.1",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/782192743",
-  "sha256": "e74702c84867290834b47cff8caf2c1e80571a02e57b9fed3787b2924bfa3da0",
-  "size": 51392921,
-  "notes": "- 小键盘新增 Q36 for KM。以键盘模式连接后，可在设备图上选择按键，录入输入并配置单击、双击和组合动作。\n- Q36 for KM 使用带有 15 个可点选按键的胶囊形线条图。8BitDo Micro 的方向键、功能键与肩键标识也统一为细线风格。"
+  "versionCode": 31,
+  "versionName": "1.6.0",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/CSPDeck-updates/releases/assets/785131267",
+  "sha256": "b42cf4154b4382e51a41164c4f8d9fb536b5c6fc6ba98f6aba816b25b7292f83",
+  "size": 51556785,
+  "notes": "- 新增自定义动作菜单，可组合笔刷、快捷键、CSP 命令和宏，并通过外接键盘或控制器呼出。\n- 支持列表和双列网格、批量添加已有动作，以及实体方向键选择、确认和返回；可设置执行后保留菜单。\n- S Pen 感应中时，菜单默认在笔尖附近展开，靠近屏幕边缘自动避让；落笔期间等待抬笔，无可用笔位置时使用记忆位置。\n- 修复部分三星设备上菜单闪退或约一秒后自动消失的问题，并修复已悬停时无法取得初始笔位置的问题。\n- 完善菜单关闭、画布输入焦点交还，以及保留菜单执行宏时的停止按钮交互。"
 }
